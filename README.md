@@ -15,3 +15,6 @@ There are 4 different versions:
 - Uses same observations as Tsuro(With Rotations and Cards Merged) but with an altered reward system just to see how it affects the ability for the agent to learn.
 
 All 4 implementations utilise a very similar if not the same agent architecture, the architecture itself was not fully looked into, with only a few different variations trialled.
+
+The saved versions of the agents are too big in size to upload to github but can be found here: 
+https://www.dropbox.com/sh/df3cv0y21v8lgry/AAC-BwidXNepfrSShn-VE7bGa?dl=0
