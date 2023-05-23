@@ -8,7 +8,7 @@ Implemented using OpenAI's gym wrapper for the environment itself and Pygame for
 
 ---
 
-There are 4 different versions:
+##There are 4 different versions:
 
 ### Tsuro(No Rotations Seen)
 - The original implementation, has a fault with the observation space not giving agents details on the rotations of different cards.
