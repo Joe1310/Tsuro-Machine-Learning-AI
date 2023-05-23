@@ -18,4 +18,5 @@ All 4 implementations utilise a very similar if not the same agent architecture,
 
 The saved versions of the agents are too big in size to upload to github but can be found here: 
 https://www.dropbox.com/sh/df3cv0y21v8lgry/AAC-BwidXNepfrSShn-VE7bGa?dl=0
-\nReplace the folders in the github download with the folders found at the link above to resume from where i left it.
+
+Replace the folders in the github download with the folders found at the link above to resume from where i left it.
